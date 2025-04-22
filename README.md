@@ -1,13 +1,14 @@
-<h1 align="center">Hi 👋, I'm Sinchan</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h1 align="center">Hi 👋, I'm Panda</h1>
+<h3 align="center">Developer brand cheat Veloura MLBB</h3>
 
 - 🔭 I’m currently working on [Veloura MLBB](https://t.me/VelouraMLBB)
 
 - 🌱 I’m currently learning **University**
 
+- 💬 Ask me about **Contact on Instagram**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/sinchan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sinchan" height="30" width="40" /></a>
 <a href="https://instagram.com/nugaa.st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nugaa.st" height="30" width="40" /></a>
 </p>
 
