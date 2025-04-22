@@ -1,0 +1,63 @@
+.gd-primary {
+    background: #089CAC;
+    
+    background: -webkit-linear-gradient(to right, #089CAC 0%, #0DB4C6 75%);
+    
+    background: -moz-linear-gradient(to right, #089CAC 0%, #0DB4C6 75%);
+    
+    background: linear-gradient(to right, #089CAC 0%, #0DB4C6 75%);
+}
+
+.gd-success {
+  background: #35C330;
+  
+  background: -webkit-linear-gradient(to right, #35C330 0%, #53DB4F 80%);
+  
+  background: -moz-linear-gradient(to right, #35C330 0%, #53DB4F 80%);
+  
+  background: linear-gradient(to right, #35C330 0%, #53DB4F 80%);
+}
+
+.gd-info {
+  background: #4facfe;
+
+  background: -webkit-linear-gradient(to right, rgba(79, 172, 254, 1), rgba(0, 242, 254, 1));
+
+  background: linear-gradient(to right, rgba(79, 172, 254, 1), rgba(0, 242, 254, 1))
+}
+
+.gd-purple {
+  background: #667eea;
+
+  background: -webkit-linear-gradient(to right, rgba(102, 126, 234, 1), rgba(118, 75, 162, 1));
+
+  background: linear-gradient(to right, rgba(102, 126, 234, 1), rgba(118, 75, 162, 1))
+}
+
+.gd-gray {
+  background: #6a85b6;
+
+  background: -webkit-linear-gradient(to left, rgba(106, 133, 182, 1), rgba(186, 200, 224, 1));
+
+  background: linear-gradient(to left, rgba(106, 133, 182, 1), rgba(186, 200, 224, 1))
+}
+
+.gd-warning {
+  background: #FDA261;
+  
+  background: -webkit-linear-gradient(to right, #FDA261 0%, #FFB37A 100%);
+  
+  background: -moz-linear-gradient(to right, #FDA261 0%, #FFB37A 100%);
+  
+  background: linear-gradient(to right, #FDA261 0%, #FFB37A 100%);
+}
+
+.gd-danger {
+    background: #DB4D48;
+        
+    background: -webkit-linear-gradient(to right, #DB4D48 0%, #EF605E 100%);
+    
+    background: -moz-linear-gradient(to right, #DB4D48 0%, #EF605E 100%);
+    
+    background: linear-gradient(to right, #DB4D48 0%, #EF605E 100%);
+}
